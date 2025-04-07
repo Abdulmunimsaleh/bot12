@@ -6,7 +6,7 @@ import json
 import time
 
 # Configure Gemini API key
-genai.configure(api_key="AIzaSyCpugWq859UTT5vaOe01EuONzFweYT2uUY")
+genai.configure(api_key="AIzaSyCtbjyQjRa7OmSt1YJDvqKat25f19OiFMk")
 
 app = FastAPI()
 
